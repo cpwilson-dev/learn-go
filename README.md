@@ -26,21 +26,22 @@ This repository is structured around the chapters and exercises from **Learn Go 
 
 The repository is organized into directories, each focusing on a particular Go concept:
 
-- `arrays/`
-- `concurrency/`
-- `context/`
-- `dependency-injection/`
 - `init/`
 - `integers/`
 - `iteration/`
-- `maps/`
-- `mocking/`
-- `pointers/`
-- `reflection/`
-- `roman-numerals/`
-- `select/`
+- `arrays/`
 - `structs/`
+- `pointers/`
+- `maps/`
+- `dependency-injection/`
+- `mocking/`
+- `concurrency/`
+- `select/`
+- `reflection/`
 - `sync/`
+- `context/`
+- `roman-numerals/`
+- `generics/`
 
 Each directory contains:
 
