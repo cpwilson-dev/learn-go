@@ -3,7 +3,6 @@ package main
 import (
 	"fmt"
 	"testing"
-	"testing/quick"
 )
 
 var (
